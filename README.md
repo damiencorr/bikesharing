@@ -47,10 +47,9 @@ The De Moise's tourism website highlights several aspects that may indicate dema
 Visit my NYC Citibike Ride Sharing Tableau Dashboard for a visualization https://public.tableau.com/profile/damien.corr#!/vizhome/bikesharingBook/CitibikeAugust2019Viz?publish=yes
 
 ###SOURCES
-Des Moines vs NYC census comparison data - https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa,US/PST045219
-Des Moines outdoor biking trails - https://www.catchdesmoines.com/things-to-do/outdoor/trails/
-Des Moines visitor numbers (starting point) - https://www.catchdesmoines.com/articles/post/des-moines-draws-record-number-of-visitors-to-region/
-
+- [Des Moines vs NYC census comparison data](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa,US/PST045219 "Des Moines vs NYC census comparison data")
+- [Des Moines outdoor biking trails](https://www.catchdesmoines.com/things-to-do/outdoor/trails/ "Des Moines outdoor biking trails")
+- [Des Moines visitor numbers (starting point)](https://www.catchdesmoines.com/articles/post/des-moines-draws-record-number-of-visitors-to-region/ "Des Moines visitor numbers (starting point)")
 
 
 ## CHALLENGE DETAILS
