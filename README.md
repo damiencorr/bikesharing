@@ -3,13 +3,13 @@ Module 14
 ## CHALLENGE
 
 ## Citibike NYC with a view to demand in Des Moines
-New York City's bike sharing service, known as Citibike, is an example of a popular bike sharing service. According to the bike ridesharing data from August 2019, the service clocked over 2.3 million individual bike rides in that month alone. The goal of this analysis is to use the citibike data as a reference to help assess the potential of a bike sharing service in the city of Des Moine, Iowa.
+New York City's bike sharing service, known as Citibike, is an example of a popular bike sharing service. According to the bike sharing data from August 2019 [https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip](201908-citibike-tripdata.csv.zip "August 2019 citibike tripdata csv zip"), the service clocked over 2.3 million individual bike rides in that month alone. The goal of this analysis is to use the citibike data as a reference to help assess the potential of a bike sharing service in the city of Des Moine, Iowa.
 
 The citibike data contains information about the gender and age of the service users, as well as information about the locations of bike sharing stations, frequency of rides and ride durations between the stations. This analysis will visualize those aspects of the citibike service
 
 We will use the visualization as a backdrop when comparing Des Moines' vs New York demographics. That comparison will be the driver to infer the possible level of demand for a Des Moines bike sharing service.
 
-### Citebike in NYC
+### Citibike in NYC
 The service is mostly used by males, constituting over 70% of the ridership.
 The average trip duration is similar for riders born in the 1960s-1980s time frame. 
 There is small upward trend in ride duration among millennials.
