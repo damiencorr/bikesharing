@@ -27,22 +27,29 @@ Gender & age distribution
 ### Des Moines Demographics, comparison with NYC demopgraphics and citibike usage
 Des Moines demographics 
 
-
-
-
 ### Citebike Des Moines Potential
-Citibike NYC showed there is a potential to expand bike sharing services to Des Moines, Iowa. 
-While the citibike service is mostly utilized by male riders, female riders do regularly employ the service.
+Citibike data provides a template against which to consider the liekly demand for a Des Moines bike sharing service. 
+The citibike service is mostly utilized by male riders, with female riders regularly employing the service though as a lesser proportion of overall usage.
+
+NYC vs Des Moines populations
+- Total populations
+- Males versus females
 
 According to the U.S. Census Bureau, Des Moines' male-female population ratio appears to be similar to NYC's, where Des Moines is 50.8% female whereas NYC is 52.3%. 
 A Des Moines service might see ridership among females similar to that of NYC's.
+
+
 
 The De Moise's tourism website highlights several aspects that may indicate demand for a bike sharing service.
 - There are popular existing bike trails, attractive not only for residents but potentially also for tourists. The trails are 6-9 mile rides, a distance likely attractive to casual bike riders.
 - Scenic outdoors, history, and culture could also attract ridership eager to explore the riches of De Moise.
 
-Visit my Citibike Ride Sharing  & Des Moines Demograpics Comparison Tableau Dashboard for the analysis.
+Visit my NYC Citibike Ride Sharing Tableau Dashboard for a visualization https://public.tableau.com/profile/damien.corr#!/vizhome/bikesharingBook/CitibikeAugust2019Viz?publish=yes
 
+###SOURCES
+Des Moines vs NYC census comparison data - https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa,US/PST045219
+Des Moines outdoor biking trails - https://www.catchdesmoines.com/things-to-do/outdoor/trails/
+Des Moines visitor numbers (starting point) - https://www.catchdesmoines.com/articles/post/des-moines-draws-record-number-of-visitors-to-region/
 
 
 
